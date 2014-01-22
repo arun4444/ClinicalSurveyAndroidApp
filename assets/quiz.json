@@ -1,0 +1,40 @@
+{
+   "section":[
+      {
+         "title":"BHM-20 College Counseling Version",
+         "section":[
+            {
+               "title":"Please answer these questions as they relate to the past two weeks or since your last session (whichever is most recent).",
+               "question":[
+                  {
+                     "isRequired":true,
+                     "text":"How Distressed have you been with your life?",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Extremely distressed"
+                        },
+                        {
+                           "id":2,
+                           "text":"Very distressed"
+                        },
+                        {
+                           "id":3,
+                           "text":"Moderately distressed"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit distressed"
+                        },
+                        {
+                           "id":5,
+                           "text":"Not at all distressed"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

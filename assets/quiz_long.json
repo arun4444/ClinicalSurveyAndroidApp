@@ -1,0 +1,705 @@
+{
+   "section":[
+      {
+         "title":"BHM-20 College Counseling Version",
+         "section":[
+            {
+               "title":"Please answer these questions as they relate to the past two weeks or since your last session (whichever is most recent).",
+               "question":[
+                  {
+                     "isRequired":true,
+                     "text":"How Distressed have you been with your life?",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Extremely distressed"
+                        },
+                        {
+                           "id":2,
+                           "text":"Very distressed"
+                        },
+                        {
+                           "id":3,
+                           "text":"Moderately distressed"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit distressed"
+                        },
+                        {
+                           "id":5,
+                           "text":"Not at all distressed"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"How satisfied have you been with your life?",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Not satisfied at all"
+                        },
+                        {
+                           "id":2,
+                           "text":"Mildly satisfied"
+                        },
+                        {
+                           "id":3,
+                           "text":"Somewhat satisfied"
+                        },
+                        {
+                           "id":4,
+                           "text":"Satisfied"
+                        },
+                        {
+                           "id":5,
+                           "text":"Very Satisfied"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"How energetic and motivated have you been feeling?",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Not at all energetic"
+                        },
+                        {
+                           "id":2,
+                           "text":"A little bit energetic"
+                        },
+                        {
+                           "id":3,
+                           "text":"Somewhat energetic"
+                        },
+                        {
+                           "id":4,
+                           "text":"Energetic"
+                        },
+                        {
+                           "id":5,
+                           "text":"Very Energetic"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "title":"In the past two weeks, or since you last appointment how much have you been distressed by:",
+               "question":[
+                  {
+                     "isRequired":true,
+                     "text":"Feeling fearful, scared.",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Almost always"
+                        },
+                        {
+                           "id":2,
+                           "text":"Often"
+                        },
+                        {
+                           "id":3,
+                           "text":"Sometimes"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Alcohol/Drug use intefering with your performance at school or work",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Almost always"
+                        },
+                        {
+                           "id":2,
+                           "text":"Often"
+                        },
+                        {
+                           "id":3,
+                           "text":"Sometimes"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Wanting to harm someone.",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Almost always"
+                        },
+                        {
+                           "id":2,
+                           "text":"Often"
+                        },
+                        {
+                           "id":3,
+                           "text":"Sometimes"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Not liking yourself.",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Almost always"
+                        },
+                        {
+                           "id":2,
+                           "text":"Often"
+                        },
+                        {
+                           "id":3,
+                           "text":"Sometimes"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Difficulty Concentrating.",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Almost always"
+                        },
+                        {
+                           "id":2,
+                           "text":"Often"
+                        },
+                        {
+                           "id":3,
+                           "text":"Sometimes"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Eating problem interfering with your relationships with family or friends.",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Almost always"
+                        },
+                        {
+                           "id":2,
+                           "text":"Often"
+                        },
+                        {
+                           "id":3,
+                           "text":"Sometimes"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Thoughts of ending your life.",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Almost always"
+                        },
+                        {
+                           "id":2,
+                           "text":"Often"
+                        },
+                        {
+                           "id":3,
+                           "text":"Sometimes"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Feeling sad most of the time.",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Almost always"
+                        },
+                        {
+                           "id":2,
+                           "text":"Often"
+                        },
+                        {
+                           "id":3,
+                           "text":"Sometimes"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Feeling hopeless about the future.",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Almost always"
+                        },
+                        {
+                           "id":2,
+                           "text":"Often"
+                        },
+                        {
+                           "id":3,
+                           "text":"Sometimes"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Powerful, intense mood swings (highs and lows).",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Almost always"
+                        },
+                        {
+                           "id":2,
+                           "text":"Often"
+                        },
+                        {
+                           "id":3,
+                           "text":"Sometimes"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Alcohol/Drug use interfering with your relationships with family and/or friends.",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Almost always"
+                        },
+                        {
+                           "id":2,
+                           "text":"Often"
+                        },
+                        {
+                           "id":3,
+                           "text":"Sometimes"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Feeling Nervous.",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Almost always"
+                        },
+                        {
+                           "id":2,
+                           "text":"Often"
+                        },
+                        {
+                           "id":3,
+                           "text":"Sometimes"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Heart pounding or racing.",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Almost always"
+                        },
+                        {
+                           "id":2,
+                           "text":"Often"
+                        },
+                        {
+                           "id":3,
+                           "text":"Sometimes"
+                        },
+                        {
+                           "id":4,
+                           "text":"A little bit"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Please indicate your overall risk of suicide.",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Extremely High Risk"
+                        },
+                        {
+                           "id":2,
+                           "text":"High Risk"
+                        },
+                        {
+                           "id":3,
+                           "text":"Low Risk"
+                        },
+                        {
+                           "id":4,
+                           "text":"No Risk"
+                        },
+                        {
+                           "id":5,
+                           "text":"Never"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "title":"How have you been getting along in the following areas of your life over the past two weeks, or since your last appointment?",
+               "question":[
+                  {
+                     "isRequired":true,
+                     "text":"Nonfamily Social Relationships (for example communication, closeness, level of activity)",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Terribly"
+                        },
+                        {
+                           "id":2,
+                           "text":"Poor"
+                        },
+                        {
+                           "id":3,
+                           "text":"Fair"
+                        },
+                        {
+                           "id":4,
+                           "text":"Well"
+                        },
+                        {
+                           "id":5,
+                           "text":"Very Well"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Life Enjoyment (for example recreation, life appreciation, leisure activities)",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Terribly"
+                        },
+                        {
+                           "id":2,
+                           "text":"Poor"
+                        },
+                        {
+                           "id":3,
+                           "text":"Fair"
+                        },
+                        {
+                           "id":4,
+                           "text":"Well"
+                        },
+                        {
+                           "id":5,
+                           "text":"Very Well"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Work/School (for example performance, attendance)",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Terribly"
+                        },
+                        {
+                           "id":2,
+                           "text":"Poor"
+                        },
+                        {
+                           "id":3,
+                           "text":"Fair"
+                        },
+                        {
+                           "id":4,
+                           "text":"Well"
+                        },
+                        {
+                           "id":5,
+                           "text":"Very Well"
+                        }
+                     ]
+                  },
+                  {
+                     "isRequired":true,
+                     "text":"Intimate Relationships (for example support, communication, closeness)",
+                     "response":[
+                        {
+                           "id":1,
+                           "text":"Terribly"
+                        },
+                        {
+                           "id":2,
+                           "text":"Poor"
+                        },
+                        {
+                           "id":3,
+                           "text":"Fair"
+                        },
+                        {
+                           "id":4,
+                           "text":"Well"
+                        },
+                        {
+                           "id":5,
+                           "text":"Very Well"
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "title":"CelestHealth System Psychotherapy Readiness Scale",
+         "question":[
+            {
+               "isRequired":true,
+               "text":"How much do you need to be in psychotherapy or counseling now?",
+               "response":[
+                  {
+                     "id":1,
+                     "text":"Not at all."
+                  },
+                  {
+                     "id":2,
+                     "text":"A little bit."
+                  },
+                  {
+                     "id":3,
+                     "text":"I could use it."
+                  },
+                  {
+                     "id":4,
+                     "text":"I really need it."
+                  },
+                  {
+                     "id":5,
+                     "text":"It\u0027s essential."
+                  }
+               ]
+            },
+            {
+               "isRequired":true,
+               "text":"How long have you been experiencing the problems for which you are entering counseling?",
+               "response":[
+                  {
+                     "id":1,
+                     "text":"More than two years."
+                  },
+                  {
+                     "id":2,
+                     "text":"One to two years."
+                  },
+                  {
+                     "id":3,
+                     "text":"Six months to one year."
+                  },
+                  {
+                     "id":4,
+                     "text":"Three to six months."
+                  },
+                  {
+                     "id":5,
+                     "text":"Less than three months."
+                  }
+               ]
+            },
+            {
+               "isRequired":true,
+               "text":"How much counseling or psychotherapy have you experienced in the past?",
+               "response":[
+                  {
+                     "id":1,
+                     "text":"More than one year."
+                  },
+                  {
+                     "id":2,
+                     "text":"Six months to one year."
+                  },
+                  {
+                     "id":3,
+                     "text":"Three to six months."
+                  },
+                  {
+                     "id":4,
+                     "text":"Less than three months."
+                  },
+                  {
+                     "id":5,
+                     "text":"None"
+                  }
+               ]
+            },
+            {
+               "isRequired":true,
+               "text":"How confident are you that you can eventually overcome your problems and have a satisfying life?",
+               "response":[
+                  {
+                     "id":1,
+                     "text":"Not at all."
+                  },
+                  {
+                     "id":2,
+                     "text":"Slightly confident."
+                  },
+                  {
+                     "id":3,
+                     "text":"Somewhat confident."
+                  },
+                  {
+                     "id":4,
+                     "text":"Very confident."
+                  },
+                  {
+                     "id":5,
+                     "text":"Extremely confident."
+                  }
+               ]
+            },
+            {
+               "isRequired":true,
+               "text":"How confident are you that psychotherapy or counseling will help you with your problems?",
+               "response":[
+                  {
+                     "id":1,
+                     "text":"Not at all."
+                  },
+                  {
+                     "id":2,
+                     "text":"Slightly confident."
+                  },
+                  {
+                     "id":3,
+                     "text":"Somewhat confident."
+                  },
+                  {
+                     "id":4,
+                     "text":"Very confident."
+                  },
+                  {
+                     "id":5,
+                     "text":"Extremely confident."
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
