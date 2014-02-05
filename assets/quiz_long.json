@@ -9,6 +9,7 @@
                   {
                      "isRequired":true,
                      "text":"How Distressed have you been with your life?",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -35,6 +36,7 @@
                   {
                      "isRequired":true,
                      "text":"How satisfied have you been with your life?",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -61,6 +63,7 @@
                   {
                      "isRequired":true,
                      "text":"How energetic and motivated have you been feeling?",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -92,6 +95,7 @@
                   {
                      "isRequired":true,
                      "text":"Feeling fearful, scared.",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -118,6 +122,7 @@
                   {
                      "isRequired":true,
                      "text":"Alcohol/Drug use intefering with your performance at school or work",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -144,6 +149,7 @@
                   {
                      "isRequired":true,
                      "text":"Wanting to harm someone.",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -170,6 +176,7 @@
                   {
                      "isRequired":true,
                      "text":"Not liking yourself.",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -196,6 +203,7 @@
                   {
                      "isRequired":true,
                      "text":"Difficulty Concentrating.",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -222,6 +230,7 @@
                   {
                      "isRequired":true,
                      "text":"Eating problem interfering with your relationships with family or friends.",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -248,6 +257,7 @@
                   {
                      "isRequired":true,
                      "text":"Thoughts of ending your life.",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -274,6 +284,7 @@
                   {
                      "isRequired":true,
                      "text":"Feeling sad most of the time.",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -300,6 +311,7 @@
                   {
                      "isRequired":true,
                      "text":"Feeling hopeless about the future.",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -326,6 +338,7 @@
                   {
                      "isRequired":true,
                      "text":"Powerful, intense mood swings (highs and lows).",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -352,6 +365,7 @@
                   {
                      "isRequired":true,
                      "text":"Alcohol/Drug use interfering with your relationships with family and/or friends.",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -378,6 +392,7 @@
                   {
                      "isRequired":true,
                      "text":"Feeling Nervous.",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -404,6 +419,7 @@
                   {
                      "isRequired":true,
                      "text":"Heart pounding or racing.",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -430,6 +446,7 @@
                   {
                      "isRequired":true,
                      "text":"Please indicate your overall risk of suicide.",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -461,6 +478,7 @@
                   {
                      "isRequired":true,
                      "text":"Nonfamily Social Relationships (for example communication, closeness, level of activity)",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -487,6 +505,7 @@
                   {
                      "isRequired":true,
                      "text":"Life Enjoyment (for example recreation, life appreciation, leisure activities)",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -513,6 +532,7 @@
                   {
                      "isRequired":true,
                      "text":"Work/School (for example performance, attendance)",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -539,6 +559,7 @@
                   {
                      "isRequired":true,
                      "text":"Intimate Relationships (for example support, communication, closeness)",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -572,6 +593,7 @@
             {
                "isRequired":true,
                "text":"How much do you need to be in psychotherapy or counseling now?",
+               "type":"radio",
                "response":[
                   {
                      "id":1,
@@ -598,6 +620,7 @@
             {
                "isRequired":true,
                "text":"How long have you been experiencing the problems for which you are entering counseling?",
+               "type":"radio",
                "response":[
                   {
                      "id":1,
@@ -624,6 +647,7 @@
             {
                "isRequired":true,
                "text":"How much counseling or psychotherapy have you experienced in the past?",
+               "type":"radio",
                "response":[
                   {
                      "id":1,
@@ -650,6 +674,7 @@
             {
                "isRequired":true,
                "text":"How confident are you that you can eventually overcome your problems and have a satisfying life?",
+               "type":"radio",
                "response":[
                   {
                      "id":1,
@@ -676,6 +701,7 @@
             {
                "isRequired":true,
                "text":"How confident are you that psychotherapy or counseling will help you with your problems?",
+               "type":"radio",
                "response":[
                   {
                      "id":1,
@@ -700,6 +726,26 @@
                ]
             }
          ]
+      },
+      {
+         "title":"",
+         "question":[
+            {
+               "isRequired":true,
+               "text":"What medications you have been taking?",
+               "ccdSection" : "medications",
+               "type":"freetext"
+            },
+            {
+               "isRequired":true,
+               "text":"What allergies do you have?",
+               "ccdSection" : "allergies",
+               "type":"freetext"
+            }
+         ]
       }
-   ]
+   ],
+   "id":1000,
+   "name":"",
+   "postURL":""
 }

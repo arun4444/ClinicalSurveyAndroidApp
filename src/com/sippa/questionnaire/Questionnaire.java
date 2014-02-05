@@ -14,8 +14,10 @@ public class Questionnaire
 	{
 		public boolean isRequired;
 		public String text;
+		public String type;
 		public Response[] response;
 		public String selectedResponse;
+		public String ccdSection;
 	}
 		
 	static public class Response

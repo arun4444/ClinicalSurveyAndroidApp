@@ -1,0 +1,1162 @@
+{
+   "Procedures":{
+      "data":[
+         {
+            "procedureMethod":"Not Available",
+            "time":"20111201",
+            "assignedEntityState":"Not Available",
+            "assignedEntityCountry":"Not Available",
+            "assignedEntityZIP":"Not Available",
+            "organizationName":"Not Available",
+            "assignedEntityStreet":"Not Available",
+            "DoctorName":"Not Available",
+            "procedureName":"EDG",
+            "assignedEntityCity":"Not Available"
+         },
+         {
+            "procedureMethod":"Not Available",
+            "time":"20110701",
+            "assignedEntityState":"Not Available",
+            "assignedEntityCountry":"Not Available",
+            "assignedEntityZIP":"Not Available",
+            "organizationName":"Not Available",
+            "assignedEntityStreet":"Not Available",
+            "DoctorName":"Not Available",
+            "procedureName":"Colonoscopy",
+            "assignedEntityCity":"Not Available"
+         }
+      ]
+   },
+   "PersonalInformation":{
+      "patientInformation":[
+         {
+            "birthday":"19930101",
+            "participantInformation":[
+               {
+                  "Codes":{
+                     "participantCodeSystemName":"Not Available",
+                     "participantCodeSystem":"Not Available",
+                     "participantDisplayName":"Not Available",
+                     "participantCode":"Not Available"
+                  },
+                  "participantFirstName":"Not Available",
+                  "Address":{
+                     "participantCountry":"Not Available",
+                     "participantCity":"Not Available",
+                     "participantState":"Not Available",
+                     "participantZIP":"Not Available",
+                     "participantStreet":"Not Available"
+                  },
+                  "participantPrefix":"Not Available",
+                  "participantType":"Not Available",
+                  "participantLastName":"Not Available",
+                  "participantphoneType":"Not Available",
+                  "participantClassCode":"Not Available",
+                  "participantphoneNumber":"Not Available"
+               }
+            ],
+            "providerInformation":{
+               "providerOrganizationName":"Not Available",
+               "providerOrganizationPhoneUse":"Not Available",
+               "providerOrganizationAddress":{
+                  "providerOrganizationState":"Not Available",
+                  "providerOrganizationCountry":"Not Available",
+                  "providerOrganizationZIP":"Not Available",
+                  "providerOrganizationCity":"Not Available",
+                  "providerOrganizationStreet":"Not Available"
+               },
+               "providerOrganizationPhoneNumber":"Not Available"
+            },
+            "custodianOrganizationInformation":{
+               "custodianOrganizationAddress":{
+                  "custodianOrganizationZIP":"Not Available",
+                  "custodianOrganizationCity":"Not Available",
+                  "custodianOrganizationStreet":"Not Available",
+                  "custodianOrganizationCountry":"Not Available",
+                  "custodianOrganizationState":"Not Available"
+               },
+               "custodianOrganizationName":"Microsoft HealthVault",
+               "custodianOrganizationPhoneNumber":"Not Available",
+               "custodianOrganizationPhoneType":"Not Available"
+            },
+            "componentOfInformation":{
+               "encounterParticipantInfo":{
+                  "lastName":"Not Available",
+                  "prefix":"Not Available",
+                  "typeCode":"Not Available",
+                  "firstName":"Not Available",
+                  "idRoot":"Not Available",
+                  "healthCareFacilityID":"Not Available"
+               },
+               "Codes":{
+                  "codeSystemName":"Not Available",
+                  "codeSystem":"Not Available",
+                  "code":"Not Available",
+                  "displayName":"Not Available"
+               },
+               "effectiveTimes":{
+                  "lowTime":"Not Available",
+                  "highTime":"Not Available"
+               },
+               "responsibleParty":{
+                  "lastName":"Not Available",
+                  "firstName":"Not Available",
+                  "idRoot":"Not Available",
+                  "idExtension":"Not Available"
+               },
+               "idRoot":"Not Available",
+               "idExtension":"Not Available"
+            },
+            "informantInformation":{
+               "informantAddress":[
+                  {
+                     "informantState":"Not Available",
+                     "informantStreet":"Not Available",
+                     "informantCountry":"Not Available",
+                     "informantCity":"Not Available",
+                     "informantZIP":"Not Available"
+                  }
+               ],
+               "informantContactInfo":[
+                  {
+                     "informantPhoneType":"Not Available",
+                     "informantFirstName":"Not Available",
+                     "informantPhoneNumber":"Not Available",
+                     "informantLastName":"Not Available"
+                  }
+               ]
+            },
+            "legalAuthenticatorInformation":{
+               "legalAuthenticatorLastName":"Not Available",
+               "legalAuthenticatorFirstName":"Not Available",
+               "legalAuthenticatorPhoneNumber":"Not Available",
+               "Address":{
+                  "legalAuthenticatorCountry":"Not Available",
+                  "legalAuthenticatorStreet":"Not Available",
+                  "legalAuthenticatorState":"Not Available",
+                  "legalAuthenticatorZIP":"Not Available",
+                  "legalAuthenticatorCity":"Not Available"
+               },
+               "legalAuthenticatorPhoneType":"Not Available",
+               "legalAuthenticatorDate":"Not Available",
+               "legalAuthenticatoridRoot":"Not Available",
+               "legalAuthenticatoridExtension":"Not Available",
+               "legalAuthenticatorSignatureCode":"Not Available"
+            },
+            "patientFirstName":"Decline",
+            "birthPlace":{
+               "ZIP":"Not Available",
+               "State":"Not Available",
+               "Country":"Not Available",
+               "City":"Not Available"
+            },
+            "patientLastName":"Decline",
+            "dataEntererInformation":{
+               "entererPhoneType":"Not Available",
+               "entererAddress":{
+                  "entererStreet":"Not Available",
+                  "entererZIP":"Not Available",
+                  "entererState":"Not Available",
+                  "entererCity":"Not Available",
+                  "entererCountry":"Not Available"
+               },
+               "entererLastName":"Not Available",
+               "entererFirstName":"Not Available",
+               "entererPhoneNumber":"Not Available"
+            },
+            "phoneNumber":"Not Available",
+            "currentAddress":{
+               "ZIP":"Not Available",
+               "street":"Not Available",
+               "state":"Not Available",
+               "PostAddressUse":"Not Available",
+               "city":"Not Available"
+            },
+            "email":"decline12345@decline.com",
+            "informantRelationInformation":[
+               {
+                  "informantRelationCode":"Not Available",
+                  "informantRelationCodeSystemName":"Not Available",
+                  "informantRelationDisplayName":"Not Available",
+                  "informantRelationLastName":"Not Available",
+                  "informantRelationCodeSystem":"Not Available",
+                  "informantRelationFirstName":"Not Available"
+               }
+            ]
+         }
+      ]
+   },
+   "Immunizations":{
+      "data":[
+         {
+            "reaction":"Not Available",
+            "performerName":"Not Available",
+            "drugManufacturerCountryAddress":"Not Available",
+            "drugManufacturerZIPAddress":"Not Available",
+            "refusalReason":"Not Available",
+            "drugManufacturerStreetAddress":"Not Available",
+            "performerNumber":[
+               "Not Available"
+            ],
+            "freeTextProductName":"Flu shot",
+            "administeredDate":"20120126",
+            "lotNumber":"Not Available",
+            "medicationSeriesNumber":"Not Available",
+            "performerStateAddress":"Not Available",
+            "performerStreetAddress":"Not Available",
+            "performerCityAddress":"Not Available",
+            "performerZIPAddress":"Not Available",
+            "drugManufacturerCityAddress":"Not Available",
+            "performerCountryAddress":"Not Available",
+            "drugManufacturerName":"Not Available",
+            "drugManufacturerStateAddress":"Not Available",
+            "refusal":"Not Available"
+         }
+      ]
+   },
+   "Problems":{
+      "data":[
+         {
+            "startDate":"Not Available",
+            "Severity":"Not Available",
+            "age":"Not Available",
+            "endDate":"Not Available",
+            "prescribedMedication":"Not Available",
+            "problemName":"Child asthma"
+         }
+      ]
+   },
+   "Medications":{
+      "data":[
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Shingle",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"20120710",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"20120701",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"1",
+            "doseUnit":"Tablets",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"By mouth",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Zovirax",
+            "periodUnit":"Not Available"
+         },
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Skin condition",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"Not Available",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"Not Available",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"1",
+            "doseUnit":"Applicatorfuls",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"Through the skin",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Naftin, 1% topical gel",
+            "periodUnit":"Not Available"
+         },
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Don't know",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"20110130",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"20101030",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"Not Available",
+            "doseUnit":"Not Available",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"By mouth",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Naproxen 500 MG",
+            "periodUnit":"Not Available"
+         },
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Acid reducer",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"Not Available",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"Not Available",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"1",
+            "doseUnit":"Capsules",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"By mouth",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Omeprazole",
+            "periodUnit":"Not Available"
+         },
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Lowering cholesterol",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"20110328",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"20100928",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"3",
+            "doseUnit":"Tablets",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"By mouth",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Welchol 625 MG Oral Tablet",
+            "periodUnit":"Not Available"
+         },
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Alleviate breathing problem due to allergic reaction",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"Not Available",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"Not Available",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"1",
+            "doseUnit":"Tablets",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"By mouth",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Singulair 10 MG Oral Tablet",
+            "periodUnit":"Not Available"
+         },
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Nose allergic reaction",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"Not Available",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"Not Available",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"2",
+            "doseUnit":"Sprays",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"In the nose (spray/drops)",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Fluticasone Propionate",
+            "periodUnit":"Not Available"
+         },
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Nose allergic reaction",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"Not Available",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"Not Available",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"2",
+            "doseUnit":"Sprays",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"In the nose (spray/drops)",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Nasonex, 50 mcg/inh nasal spray",
+            "periodUnit":"Not Available"
+         },
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Noise allergic reaction",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"Not Available",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"Not Available",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"2",
+            "doseUnit":"Sprays",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"In the nose (spray/drops)",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Patanase, 665 mcg/inh nasal spray",
+            "periodUnit":"Not Available"
+         },
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Eye allergic reaction",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"Not Available",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"Not Available",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"1",
+            "doseUnit":"Drops",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"In the eye",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Pataday, 0.2% ophthalmic solution",
+            "periodUnit":"Not Available"
+         },
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Asthma relief",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"Not Available",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"Not Available",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"2",
+            "doseUnit":"Puffs",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"By mouth",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Proventil",
+            "periodUnit":"Not Available"
+         },
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Preventive",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"Not Available",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"20020402",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"1",
+            "doseUnit":"Inhalations",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"Inhaled",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Advair Diskus, 250 mcg-50 mcg inhalation powder",
+            "periodUnit":"Not Available"
+         },
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Preventive",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"Not Available",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"20020402",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"1",
+            "doseUnit":"Tablets",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"By mouth",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Advicor 500/20",
+            "periodUnit":"Not Available"
+         },
+         {
+            "reaction":"Unknown",
+            "instructions":"Not Available",
+            "reason":"Unknown",
+            "statusOfMedication":"Not Available",
+            "deliveryMethod":"Not Available",
+            "dispenseDate":"Not Available",
+            "vehicle":"Not Available",
+            "endTime":"Not Available",
+            "doseIndicator":"Not Available",
+            "brandName":"RxNorm Active Medicines Concepts",
+            "providerCityAddress":"Not Available",
+            "startTime":"Not Available",
+            "quantityOrderedValue":"Not Available",
+            "presecriptionNumber":"Not Available",
+            "expires":"Not Available",
+            "providerStreetAddress":"Not Available",
+            "fills":"Not Available",
+            "providerCountryAddress":"Not Available",
+            "quantityOrderedUnit":"Not Available",
+            "fillStatus":"Not Available",
+            "site":"Not Available",
+            "providerStateAddress":"Not Available",
+            "form":"Not Available",
+            "typeOfMedication":"Not Available",
+            "periodValue":"Not Available",
+            "maxDoseQuantity":"Not Available",
+            "fullfillmentInstructions":"Not Available",
+            "doseQuantity":"2",
+            "doseUnit":"Puffs",
+            "quantityUnit":"Not Available",
+            "providerName":"Not Available",
+            "route":"By mouth",
+            "fillNumber":"Not Available",
+            "orderedDay":"Not Available",
+            "orderNumber":"Not Available",
+            "orderingProviderFirstNames":"Not Available",
+            "quantityValue":"Not Available",
+            "orderingProviderLastNames":"Not Available",
+            "providerZIPAddress":"Not Available",
+            "productName":"Albuterol Metered Dose Inhaler [ProAir HFA]",
+            "periodUnit":"Not Available"
+         }
+      ]
+   },
+   "VitalSigns":{
+      "data":[
+         {
+            "creationDate":"201307211945",
+            "components":[
+               {
+                  "unit":"kg",
+                  "specificEntryDate":"201307211945",
+                  "value":"74.84274105165585",
+                  "vitalName":"Body weight"
+               }
+            ]
+         },
+         {
+            "creationDate":"20130722",
+            "components":[
+               {
+                  "unit":"m",
+                  "specificEntryDate":"20130722",
+                  "value":"1.7271999973746561",
+                  "vitalName":"Body height"
+               }
+            ]
+         },
+         {
+            "creationDate":"20130720190000",
+            "components":[
+               {
+                  "unit":"mm[Hg]",
+                  "specificEntryDate":"20130720190000",
+                  "value":"111",
+                  "vitalName":"Systolic blood pressure"
+               },
+               {
+                  "unit":"mm[Hg]",
+                  "specificEntryDate":"20130720190000",
+                  "value":"89",
+                  "vitalName":"Diastolic blood pressure"
+               },
+               {
+                  "unit":"/min",
+                  "specificEntryDate":"20130720190000",
+                  "value":"95",
+                  "vitalName":"Heart rate"
+               }
+            ]
+         },
+         {
+            "creationDate":"201307221700",
+            "components":[
+               {
+                  "unit":"mmol/L",
+                  "specificEntryDate":"20130722",
+                  "value":"1.6835",
+                  "vitalName":"Low density lipoprotein (LDL) cholesterol"
+               },
+               {
+                  "unit":"mmol/L",
+                  "specificEntryDate":"20130722",
+                  "value":"2.3051",
+                  "vitalName":"High density lipoprotein (HDL) cholesterol"
+               },
+               {
+                  "unit":"mmol/L",
+                  "specificEntryDate":"20130722",
+                  "value":"4.6879",
+                  "vitalName":"Total cholesterol"
+               },
+               {
+                  "unit":"mmol/L",
+                  "specificEntryDate":"20130722",
+                  "value":"3.4964999999999997",
+                  "vitalName":"Triglycerides"
+               }
+            ]
+         },
+         {
+            "creationDate":"20130721210000",
+            "components":[
+               {
+                  "unit":"mmol/L",
+                  "specificEntryDate":"20130721210000",
+                  "value":"6.6111111111111107",
+                  "vitalName":"Whole blood"
+               }
+            ]
+         }
+      ]
+   },
+   "Results":{
+      "data":[
+         {
+            "components":[
+               {
+                  "resultStatus":"Unknown",
+                  "resultValue":"Not Available",
+                  "resultName":"Not Available",
+                  "resultAuthor":"Not Available",
+                  "resultUnit":"Not Available"
+               }
+            ]
+         },
+         {
+            "components":[
+               {
+                  "resultStatus":"Unknown",
+                  "resultValue":"Not Available",
+                  "resultName":"Not Available",
+                  "resultAuthor":"Not Available",
+                  "resultUnit":"Not Available",
+                  "resultTime":"20120328"
+               }
+            ]
+         },
+         {
+            "components":[
+               {
+                  "resultStatus":"Unknown",
+                  "resultValue":"Not Available",
+                  "resultName":"Not Available",
+                  "resultAuthor":"Not Available",
+                  "resultUnit":"Not Available",
+                  "resultTime":"20130328"
+               }
+            ]
+         },
+         {
+            "components":[
+               {
+                  "resultStatus":"Unknown",
+                  "resultValue":"6.4",
+                  "resultName":"Not Available",
+                  "resultAuthor":"Not Available",
+                  "resultUnit":"units",
+                  "resultTime":"20120328"
+               }
+            ]
+         }
+      ]
+   },
+   "Allergies":{
+      "data":[
+         {
+            "adverseEventReactionCodeSystemName":"ActCode",
+            "adverseEventProductCodeDisplayName":"Not Available",
+            "adverseEventSeverityMagnitude":"Not Available",
+            "adverseEventReaction":"wheezing",
+            "adverseEventTypeCode":"ASSERTION",
+            "adverseEventProductCodeSystemName":"Not Available",
+            "adverseEventSeverityCode":"Not Available",
+            "adverseEventTypeCodeSystem":"2.16.840.1.113883.5.4",
+            "adverseEventProductCode":"Not Available",
+            "adverseEventTypeCodeSystemName":"ActCode",
+            "adverseEventReactionCodeDisplayName":"Assertion",
+            "adverseEventSeverity":"Not Available",
+            "adverseEventTypeCodeDisplayName":"Assertion",
+            "allergicTo":"Cat, dog, and house dust",
+            "adverseEventSeverityCodeSystemName":"Not Available",
+            "firstNoticed":"20010721",
+            "adverseEventReactionCodeSystem":"2.16.840.1.113883.5.4",
+            "adverseEventSeverityCodeDisplayName":"Not Available",
+            "adverseEventSeverityCodeSystem":"Not Available",
+            "adverseEventReactionCode":"ASSERTION",
+            "adverseEventProduct":"Not Available",
+            "adverseEventProductCodeSystem":"Not Available"
+         }
+      ]
+   },
+   "CareTeam":{
+      "patientInformation":[
+         {
+            "birthday":"19930101",
+            "participantInformation":[
+               {
+                  "Codes":{
+                     "participantCodeSystemName":"Not Available",
+                     "participantCodeSystem":"Not Available",
+                     "participantDisplayName":"Not Available",
+                     "participantCode":"Not Available"
+                  },
+                  "participantFirstName":"Not Available",
+                  "Address":{
+                     "participantCountry":"Not Available",
+                     "participantCity":"Not Available",
+                     "participantState":"Not Available",
+                     "participantZIP":"Not Available",
+                     "participantStreet":"Not Available"
+                  },
+                  "participantPrefix":"Not Available",
+                  "participantType":"Not Available",
+                  "participantLastName":"Not Available",
+                  "participantphoneType":"Not Available",
+                  "participantClassCode":"Not Available",
+                  "participantphoneNumber":"Not Available"
+               }
+            ],
+            "providerInformation":{
+               "providerOrganizationName":"Not Available",
+               "providerOrganizationPhoneUse":"Not Available",
+               "providerOrganizationAddress":{
+                  "providerOrganizationState":"Not Available",
+                  "providerOrganizationCountry":"Not Available",
+                  "providerOrganizationZIP":"Not Available",
+                  "providerOrganizationCity":"Not Available",
+                  "providerOrganizationStreet":"Not Available"
+               },
+               "providerOrganizationPhoneNumber":"Not Available"
+            },
+            "custodianOrganizationInformation":{
+               "custodianOrganizationAddress":{
+                  "custodianOrganizationZIP":"Not Available",
+                  "custodianOrganizationCity":"Not Available",
+                  "custodianOrganizationStreet":"Not Available",
+                  "custodianOrganizationCountry":"Not Available",
+                  "custodianOrganizationState":"Not Available"
+               },
+               "custodianOrganizationName":"Microsoft HealthVault",
+               "custodianOrganizationPhoneNumber":"Not Available",
+               "custodianOrganizationPhoneType":"Not Available"
+            },
+            "componentOfInformation":{
+               "encounterParticipantInfo":{
+                  "lastName":"Not Available",
+                  "prefix":"Not Available",
+                  "typeCode":"Not Available",
+                  "firstName":"Not Available",
+                  "idRoot":"Not Available",
+                  "healthCareFacilityID":"Not Available"
+               },
+               "Codes":{
+                  "codeSystemName":"Not Available",
+                  "codeSystem":"Not Available",
+                  "code":"Not Available",
+                  "displayName":"Not Available"
+               },
+               "effectiveTimes":{
+                  "lowTime":"Not Available",
+                  "highTime":"Not Available"
+               },
+               "responsibleParty":{
+                  "lastName":"Not Available",
+                  "firstName":"Not Available",
+                  "idRoot":"Not Available",
+                  "idExtension":"Not Available"
+               },
+               "idRoot":"Not Available",
+               "idExtension":"Not Available"
+            },
+            "informantInformation":{
+               "informantAddress":[
+                  {
+                     "informantState":"Not Available",
+                     "informantStreet":"Not Available",
+                     "informantCountry":"Not Available",
+                     "informantCity":"Not Available",
+                     "informantZIP":"Not Available"
+                  }
+               ],
+               "informantContactInfo":[
+                  {
+                     "informantPhoneType":"Not Available",
+                     "informantFirstName":"Not Available",
+                     "informantPhoneNumber":"Not Available",
+                     "informantLastName":"Not Available"
+                  }
+               ]
+            },
+            "legalAuthenticatorInformation":{
+               "legalAuthenticatorLastName":"Not Available",
+               "legalAuthenticatorFirstName":"Not Available",
+               "legalAuthenticatorPhoneNumber":"Not Available",
+               "Address":{
+                  "legalAuthenticatorCountry":"Not Available",
+                  "legalAuthenticatorStreet":"Not Available",
+                  "legalAuthenticatorState":"Not Available",
+                  "legalAuthenticatorZIP":"Not Available",
+                  "legalAuthenticatorCity":"Not Available"
+               },
+               "legalAuthenticatorPhoneType":"Not Available",
+               "legalAuthenticatorDate":"Not Available",
+               "legalAuthenticatoridRoot":"Not Available",
+               "legalAuthenticatoridExtension":"Not Available",
+               "legalAuthenticatorSignatureCode":"Not Available"
+            },
+            "patientFirstName":"Decline",
+            "birthPlace":{
+               "ZIP":"Not Available",
+               "State":"Not Available",
+               "Country":"Not Available",
+               "City":"Not Available"
+            },
+            "patientLastName":"Decline",
+            "dataEntererInformation":{
+               "entererPhoneType":"Not Available",
+               "entererAddress":{
+                  "entererStreet":"Not Available",
+                  "entererZIP":"Not Available",
+                  "entererState":"Not Available",
+                  "entererCity":"Not Available",
+                  "entererCountry":"Not Available"
+               },
+               "entererLastName":"Not Available",
+               "entererFirstName":"Not Available",
+               "entererPhoneNumber":"Not Available"
+            },
+            "phoneNumber":"Not Available",
+            "currentAddress":{
+               "ZIP":"Not Available",
+               "street":"Not Available",
+               "state":"Not Available",
+               "PostAddressUse":"Not Available",
+               "city":"Not Available"
+            },
+            "email":"decline12345@decline.com",
+            "informantRelationInformation":[
+               {
+                  "informantRelationCode":"Not Available",
+                  "informantRelationCodeSystemName":"Not Available",
+                  "informantRelationDisplayName":"Not Available",
+                  "informantRelationLastName":"Not Available",
+                  "informantRelationCodeSystem":"Not Available",
+                  "informantRelationFirstName":"Not Available"
+               }
+            ]
+         }
+      ]
+   }
+}

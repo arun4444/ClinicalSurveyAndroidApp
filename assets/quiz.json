@@ -9,6 +9,7 @@
                   {
                      "isRequired":true,
                      "text":"How Distressed have you been with your life?",
+                     "type":"radio",
                      "response":[
                         {
                            "id":1,
@@ -33,7 +34,24 @@
                      ]
                   }
                ]
+            },
+      {
+         "title":"",
+         "question":[
+            {
+               "isRequired":true,
+               "text":"What medications you have been taking?",
+               "ccdSection" : "medications",
+               "type":"freetext"
+            },
+            {
+               "isRequired":true,
+               "text":"What allergies do you have?",
+               "ccdSection" : "allergies",
+               "type":"freetext"
             }
+         ]
+      }
          ]
       }
    ]
